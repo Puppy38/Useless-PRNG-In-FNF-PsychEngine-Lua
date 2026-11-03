@@ -3,4 +3,4 @@
 Just write `rand(minimum, maximum)`
 ## Version with exclusions:
 Write `rand(minimum, maximum, {exclusion1, exclusion2...})`
-(**You can add as many exclusions as you want**)
+**(You can add as many exclusions as you want)**
