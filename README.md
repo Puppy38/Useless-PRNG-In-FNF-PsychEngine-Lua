@@ -1,2 +1,3 @@
 # Working (Useless) Pseudo Random Number Generator In FNF PsychEngine Lua
 This project was an *experiment* that turned out into a working [Random Number Generator](https://www.google.com/search?q=Random+Number+Generator&oq=Random+Number+Generator&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDg0NTVqMGo3qAIAsAIA&sourceid=chrome&source=chrome.ob&ie=UTF-8&sei=1CbqarvaIZvri-gP-oP6uAg) in [FNF Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) (This project is useless because lua has `math.random();` and psych engine has `getRandomInt();` and `getRandomFloat();`)
+I just realised the the version without exclusions doesnt work correctly, if you want to use this PRNG use the version with exclusions
